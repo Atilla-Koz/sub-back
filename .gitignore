@@ -1,0 +1,66 @@
+# Bağımlılıklar
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Ortam değişkenleri
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Derleme çıktıları
+/dist
+/build
+/out
+
+# Loglar
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Çalışma zamanı verisi
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dizin
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editör klasörleri ve dosyaları
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Geçici dosyalar
+tmp/
+temp/
+
+# Test kapsamı
+coverage/
+.nyc_output/
+
+# Diğer
+.cache/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vercel
+.next/ 
