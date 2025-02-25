@@ -183,6 +183,6 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-Proje Sahibi - [email@example.com](mailto:email@example.com)
+Proje Sahibi - [atillakoz@hotmail.com](mailto:atillakoz@hotmail.com)
 
-Proje Linki: [https://github.com/kullanici-adi/subscription-tracker](https://github.com/kullanici-adi/subscription-tracker) 
+Proje Linki: [https://github.com/Atilla-Koz/sub-back?tab=readme-ov-file](https://github.com/Atilla-Koz/sub-back?tab=readme-ov-file) 
